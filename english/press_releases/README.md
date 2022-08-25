@@ -5,3 +5,7 @@ Official docs from Ethereum Foundation:
 
 ## blog.ethereum.org
 [Ethereum's energy usage will soon decrease by ~99.95%](https://blog.ethereum.org/2021/05/18/country-power-no-more/)
+
+
+## blog.ethereum.org
+[Mainnet Merge Announcement](https://blog.ethereum.org/2022/08/24/mainnet-merge-announcement/)
